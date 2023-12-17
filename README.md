@@ -10,3 +10,4 @@ local conflict  created second time
 Solve second conflict on remote repo
 
 conflict created one more time
+third conflict
